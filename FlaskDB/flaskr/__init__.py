@@ -52,7 +52,7 @@ app.config['SECRET_KEY'] = 'you-will-never-guess'
 # REPLACE WITH YOUR DATABASE NAME, USER AND PASS
 
 POSTGRESDATABASE = "flaskdb"
-POSTGRESUSER = "ignacio"
+POSTGRESUSER = "administrator"
 POSTGRESPASS = "holas"
 postgresdb = psycopg2.connect(
     database=POSTGRESDATABASE,

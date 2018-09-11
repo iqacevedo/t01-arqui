@@ -1,10 +1,7 @@
 # t01-arqui
 
-URL:          charette2.ing.puc.cl
+URL:          146.155.13.172:80
 usuario:      administrator
-password:     Mu*kF&b3
-
-echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
 
 
 https://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html
